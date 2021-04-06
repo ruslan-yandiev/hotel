@@ -1,0 +1,165 @@
+{
+    "rooms": {
+        "1": {
+            "id": "1",
+            "price": "2000",
+            "reserved_paid": {
+                "reserved": true,
+                "deposited_money": "12200",
+                "sum_reserved": "12200",
+                "person_reserved": "Ivanov Ivan Ivanobich",
+                "id_reserved": "12344dfr334gfgg",
+                "reserved_date": {
+                    "start": "04/01/2021",
+                    "end": "05/03/2021",
+                    "count_date": "31"
+                },
+
+                "room_paid": true,
+                "room_rate": "62000",
+                "person_paid": "Ivanov Ivan Ivanobich",
+                "id_paid": "e2211fgfff331ff3"
+            },
+
+            "peoples_max": "3",
+            "bedrooms": "1",
+            "beds": "3",
+            "bathrooms": "1",
+            "toilets": "1",
+            "smoke": false,
+            "animals": true,
+            "tguests": true,
+            "breakfast": false,
+            "desk": false,
+            "crib": false,
+            "tv": true,
+            "Internet": true,
+            "wifi": true,
+            "shampoo": true,
+            "blanket": true
+        },
+
+        "2": {
+            "id": "2",
+            "price": "2000",
+            "reserved_paid": {
+                "reserved": false,
+                "deposited_money": "",
+                "sum_reserved": "",
+                "person_reserved": "",
+                "id_reserved": "",
+                "reserved_date": {
+                    "start": "",
+                    "end": "",
+                    "count_date": ""
+                },
+
+                "room_paid": false,
+                "room_rate": "",
+                "person_paid": "",
+                "id_paid": ""
+            },
+
+            "peoples_max": "3",
+            "bedrooms": "1",
+            "beds": "3",
+            "bathrooms": "1",
+            "toilets": "1",
+            "smoke": false,
+            "animals": true,
+            "tguests": true,
+            "breakfast": false,
+            "desk": false,
+            "crib": false,
+            "tv": true,
+            "Internet": true,
+            "wifi": true,
+            "shampoo": true,
+            "blanket": true
+        },
+
+        "3": {
+            "id": "3",
+            "price": "4000",
+            "reserved_paid": {
+                "reserved": true,
+                "deposited_money": "24400",
+                "sum_reserved": "24400",
+                "person_reserved": "Petrov Ivan Ruslanovich",
+                "id_reserved": "12344dfr334gfgg",
+                "reserved_date": {
+                    "start": "01/01/2022",
+                    "end": "02/01/2022",
+                    "count_date": "31"
+                },
+
+                "room_paid": false,
+                "room_rate": "",
+                "person_paid": "",
+                "id_paid": ""
+            },
+
+            "peoples_max": "3",
+            "bedrooms": "1",
+            "beds": "3",
+            "bathrooms": "1",
+            "toilets": "1",
+            "smoke": false,
+            "animals": true,
+            "tguests": true,
+            "breakfast": false,
+            "desk": false,
+            "crib": false,
+            "tv": true,
+            "Internet": true,
+            "wifi": true,
+            "shampoo": true,
+            "blanket": true
+        },
+
+        "4": {
+            "id": "4",
+            "price": "3000",
+            "reserved_paid": {
+                "reserved": false,
+                "deposited_money": "",
+                "sum_reserved": "",
+                "person_reserved": "",
+                "id_reserved": "",
+                "reserved_date": {
+                    "start": "",
+                    "end": "",
+                    "count_date": ""
+                },
+
+                "room_paid": false,
+                "room_rate": "",
+                "person_paid": "",
+                "id_paid": ""
+            },
+
+            "peoples_max": "2",
+            "bedrooms": "2",
+            "beds": "2",
+            "bathrooms": "2",
+            "toilets": "2",
+            "smoke": false,
+            "animals": true,
+            "tguests": true,
+            "breakfast": true,
+            "desk": true,
+            "crib": false,
+            "tv": true,
+            "Internet": true,
+            "wifi": true,
+            "shampoo": true,
+            "blanket": true
+        }
+    },
+
+    "admin": {
+        "name": "Ruslan",
+        "login": "cool-net@yandex.ru",
+        "password": "3178373"
+    }
+}
